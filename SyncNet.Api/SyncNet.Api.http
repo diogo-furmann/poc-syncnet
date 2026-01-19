@@ -1,0 +1,6 @@
+@SyncNet.Api_HostAddress = http://localhost:5021
+
+GET {{SyncNet.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
